@@ -1,0 +1,8 @@
+prefix=/home/agilex/limo_ws/devel
+
+Name: python_project_package
+Description: Description of python_project_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

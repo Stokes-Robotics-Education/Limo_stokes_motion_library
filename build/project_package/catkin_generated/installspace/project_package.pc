@@ -1,0 +1,8 @@
+prefix=/home/agilex/limo_ws/install
+
+Name: project_package
+Description: Description of project_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

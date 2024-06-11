@@ -1,0 +1,8 @@
+prefix=/home/agilex/limo_ws/devel
+
+Name: lesson_package
+Description: Description of lesson_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

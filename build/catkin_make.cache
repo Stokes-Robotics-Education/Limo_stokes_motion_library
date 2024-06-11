@@ -1,0 +1,2 @@
+lesson_package:project_package:python_lesson_package:python_project_package:ros_astra_camera
+-DCATKIN_DEVEL_PREFIX=/home/agilex/limo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/agilex/limo_ws/install -G Unix Makefiles
